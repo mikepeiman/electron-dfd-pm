@@ -1,5 +1,9 @@
 # Electron Forge + Svelte  Starter
 
+## Cloned from the excellent Fireship.io resource:
+- https://fireship.io/snippets/svelte-electron-setup/
+- https://github.com/codediodeio/electron-forge-svelte.git
+
 Get up and running with 💪 Svelte & ⚡ Electron. 
 
 ## Usage
